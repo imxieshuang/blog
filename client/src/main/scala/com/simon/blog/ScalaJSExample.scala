@@ -1,4 +1,4 @@
-package com.simon.playbinding
+package com.simon.blog
 
 import com.thoughtworks.binding.{Binding, dom}
 import org.scalajs.dom.html.Button

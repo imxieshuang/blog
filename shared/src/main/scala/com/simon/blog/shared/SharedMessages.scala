@@ -1,4 +1,4 @@
-package com.simon.playbinding.shared
+package com.simon.blog.shared
 
 object SharedMessages {
   def itWorks = "It works!"

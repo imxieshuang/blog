@@ -1,4 +1,4 @@
-package com.simon.playbinding.controllers
+package com.simon.blog.controllers
 
 import controllers.AssetsFinder
 import javax.inject._
